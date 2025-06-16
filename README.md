@@ -28,7 +28,7 @@ Pygame 🎮
 ```
 .
 ├── traffic_simulation.py      # Main simulation file
-🚀 Getting Started
+
 ```
 ## Prerequisites
 Make sure you have Python and Pygame installed:
