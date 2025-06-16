@@ -34,7 +34,7 @@ Pygame 🎮
 Make sure you have Python and Pygame installed:
 ```
 pip install pygame
-Run the Simulation
+
 python traffic_simulation.py
 ```
 ## 🎯 Project Goals
